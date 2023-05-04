@@ -1,3 +1,5 @@
+EXIT token
+
 Has been created and structured so as to become a
 true utility instrument and means of exchange. EXIT’s value inherent
 in a transferable digital token will enable holders to store and
