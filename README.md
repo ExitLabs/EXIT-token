@@ -26,3 +26,6 @@ EXIT Token continuously adjusts its development to keep up with the rapidly deve
 ## Conclusion
 
 EXIT Token is designed to meet the needs of the modern lifestyle industry, offering the first crypto exit strategy to convert any coin to EXIT token and directly shop designer brands FERI & POSH, as well as health, wellness, homecare, and others on a new platform. With a global community of 120,000 brand partners and VIP consumers, EXIT Token is ideally positioned for entry into the crypto market, and provides a unique value proposition that sets it apart from other digital currencies.
+
+
+To learn more about EXIT Token, please visit https://bscscan.com/token/0xdEbd6e2da378784A69Dc6Ec99Fe254223b312287
