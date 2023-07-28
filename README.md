@@ -2,7 +2,7 @@ Here is an improved readme with some formatting and color:
 
 # EXIT Token: The Ultimate Digital Currency for Real Purchases
 
-<span style="color:purple">Welcome to EXIT Token, the revolutionary digital currency that offers a true utility instrument and means of exchange. Unlike Bitcoin, EXIT Token empowers holders to not only store and preserve wealth but also engage in real commercial and consumer transactions. With EXIT Token, you can experience the true power of cryptocurrency by using it as a medium of exchange in the real world.</span>
+Welcome to EXIT Token, the revolutionary digital currency that offers a true utility instrument and means of exchange. Unlike Bitcoin, EXIT Token empowers holders to not only store and preserve wealth but also engage in real commercial and consumer transactions. With EXIT Token, you can experience the true power of cryptocurrency by using it as a medium of exchange in the real world.
 
 ## ✨ Features
 
